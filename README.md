@@ -54,7 +54,6 @@
 
 <p>I received my PhD in Analytical Chemistry from the University of Castilla-La Mancha - Spain. My PhD research focused on synthesis and characterization of new nanomaterials, as well as using the synthesized materials as tools in Analytical Chemistry. My PhD work also included an investigation into using novel nanomaterials as sensors that were modified to determine the analytes of interest in different matrices. 
 
-<p>Outside work, I enjoy running (inspired by <a href="https://www.uni-mannheim.de/dws/people/professors/prof-dr-simone-paolo-ponzetto/">Simone Paolo Ponzetto</a>) and playing beach/indoor volleyball whenever I get a chance.</p>
 
 <hr>
 
