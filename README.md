@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Khaled Murtada | Postdoctoral scientist, at the Department of Chemistry - University of Waterloo, ON, Canada CV LinkedIn Google Scholar</title>
+<title>Khaled Murtada | Postdoctoral Scientist, at the Department of Chemistry - University of Waterloo, ON, Canada CV LinkedIn Google Scholar</title>
 <meta name="generator" content="Jekyll v3.9.2">
 <meta property="og:title" content="Khaled Murtada">
 <meta property="og:locale" content="en_US">
-<meta name="description" content="Postdoctoral scientist, at the Department of Chemistry - University of Waterloo, ON, Canada CV LinkedIn Google Scholar">
+<meta name="description" content="Postdoctoral Scientist, at the Department of Chemistry - University of Waterloo, ON, Canada CV LinkedIn Google Scholar">
 <meta property="og:description" content="Postdoctoral scientist, at the Department of Chemistry - University of Waterloo, ON, Canada CV LinkedIn Google Scholar">
 <link rel="canonical" href="https://khaled.murtada.github.io/">
 <meta property="og:url" content="https://khaled.murtada.github.io/">
@@ -18,7 +18,7 @@
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="Khaled Murtada">
-<script async="" src="./Khaled Murtada _ Postdoctoral scientist, at the Department of Chemistry - University of Waterloo, ON, Canada CV LinkedIn Google Scholar_files/analytics.js.download"></script><script type="application/ld+json">
+<script async="" src="./Khaled Murtada _ Postdoctoral Scientist, at the Department of Chemistry - University of Waterloo, ON, Canada CV LinkedIn Google Scholar_files/analytics.js.download"></script><script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","description":"Postdoctoral scientist, at the Department of Chemistry - University of Waterloo, ON, Canada CV LinkedIn Google Scholar","headline":"Khaled Muratda","name":"Khaled Murtada","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://khaled.murtada.github.io/images/pp2.jpg"}},"url":"https://khaled.murtada.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
